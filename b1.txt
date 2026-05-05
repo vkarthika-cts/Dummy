@@ -1,1 +1,2 @@
 This is a dummy file which is in branch 1
+Changes has been made to check -am
